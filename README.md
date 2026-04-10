@@ -9,8 +9,9 @@ Official codebase of the paper "_Uncertainty Quantification in LLM Agents: Found
 > <br/>
 <sup>4</sup>University of Pennsylvania, <sup>5</sup>University of Southern California, <sup>6</sup>University of California, Berkeley
 
-[![Paper](https://img.shields.io/badge/arXiv-2602.05073-orange)](https://arxiv.org/pdf/2602.05073)
-[![Dataset](https://img.shields.io/badge/artifacts-tau2UQ-teal)](https://huggingface.co/datasets/changdae/tau2-uq-artifacts)
+[![Paper](https://img.shields.io/badge/ArXiv-2602.05073-orange)](https://arxiv.org/pdf/2602.05073)
+[![Website](https://img.shields.io/badge/Website-agentuq-royalblue)](https://agentuq.github.io/)
+[![Dataset](https://img.shields.io/badge/Artifacts-tau2UQ-teal)](https://huggingface.co/datasets/changdae/tau2-uq-artifacts)
 
 ## News
 - [Apr 10, 2026] [$\tau^2$-bench UQ artifacts](https://huggingface.co/datasets/changdae/tau2-uq-artifacts) (actual trajectories and uncertainty measurements) used in our paper are now available on HuggingFace datasets🤗 
