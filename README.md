@@ -1,5 +1,5 @@
 # Agent UQ on $\tau^{2}$-Bench Harness
-Official codebase of the paper "_Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities_", ACL 2026.
+Official codebase of the paper "_Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities_", ACL 2026, a position paper on agent uncertainty quantification (UQ).
 > By [Changdae Oh](https://changdaeoh.github.io/)<sup>1</sup>, [Seongheon Park](https://seongheon-96.github.io/)<sup>1</sup>, [To Eun Kim](https://kimdanny.github.io/)<sup>2</sup>, [Jiatong Li](https://cslijt.github.io/)<sup>1</sup>, [Wendi Li](https://wendili.github.io/)<sup>1</sup>, [Samuel Yeh](https://mhyeh.github.io/)<sup>1</sup>, 
 > <br/>
 [Sean Du](https://d12306.github.io/)<sup>3</sup>, [Hamed Hassani](https://www.seas.upenn.edu/~hassani/)<sup>4</sup>, [Paul Bogdan](https://cps.usc.edu/)<sup>5</sup>, [Dawn Song](https://dawnsong.io/)<sup>6</sup>, and [Sharon Li](https://pages.cs.wisc.edu/~sharonli/)<sup>1</sup>.
