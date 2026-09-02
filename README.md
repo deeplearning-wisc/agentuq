@@ -14,6 +14,9 @@ Official codebase of the paper "_Uncertainty Quantification in LLM Agents: Found
 [![Dataset](https://img.shields.io/badge/Artifacts-tau2UQ-teal)](https://huggingface.co/datasets/changdae/tau2-uq-artifacts)
 
 ## News
+- [Sep 2, 2026] [$\tau^2$-bench UQ artifacts v1.1](https://huggingface.co/datasets/changdae/tau2-uq-artifacts#changelog) is out: corrected role tags and removed leftover rows in the Kimi-K2.5 airline logprob files, per-role `uq_summary` (assistant / user / combined) for all Kimi-K2.5 trajectories, and dataset-card notes on the missing GPT-4.1 tool-call logprobs and on reproducing Table 2 of the paper.
+- [Jul 28, 2026] Prof. Sharon Li delivered a talk "_Does Your Agent Know It's Lost? Uncertainty & Progress Signals for Reliable LLM Agents_" at Cohere Labs. Watch it on [YouTube](https://www.youtube.com/watch?v=VfuCUgFmroI)🎥
+- [Jul 1, 2026] Our follow-up study, *Progress Advantage* ([arXiv](https://arxiv.org/abs/2606.26080)), received the Best Paper Award at [RLxF@ICML'26](https://sites.google.com/view/rlxf-icml2026/accepted-papers)🏆
 - [Jun 16, 2026] Full code release. Sorry about my laziness🥲
 - [Apr 10, 2026] [$\tau^2$-bench UQ artifacts](https://huggingface.co/datasets/changdae/tau2-uq-artifacts) (actual trajectories and uncertainty measurements) used in our paper are now available on HuggingFace datasets🤗 
 - [Apr 5, 2026] AgentUQ position paper got accepted to [ACL 2026](https://2026.aclweb.org/) (main conference)🎉
@@ -269,3 +272,4 @@ This work is released under the MIT License.
 
 ## Acknowledgement
 We thank the authors of [$\tau^2$-bench](https://github.com/sierra-research/tau2-bench), allowing us to easily build the overall pipeline.
+We also thank Minghua Liu (Institute of Software, Chinese Academy of Sciences) for carefully reviewing the released artifacts and reporting the issues addressed in v1.1.
